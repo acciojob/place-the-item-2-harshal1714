@@ -1,2 +1,21 @@
-
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+.item1{
+	width:90px;
+	height:90px;
+	background-color:green;
+}
+.item2{
+	width:90px;
+	height:90px;
+	background-color:red;
+}
+.item3{
+	width:90px;
+	height:90px;
+	background-color:blue;
+}
 /* Your CSS Code here. */
